@@ -1,0 +1,106 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.topAppNavBar{
+  float: right;
+}
+
+#chatbox {
+  text-align:left;
+  margin:0 auto;
+  margin-bottom:25px;
+  padding:10px;
+  background:#fff;
+  height:270px;
+  width:50vw;
+  border:1px solid #ACD8F0;
+  overflow:auto;
+  border-radius: 10px;
+}
+#chatbox p{
+  border-radius: 250px 125px 125px 250px;
+}
+form, p, span {
+  margin:0;
+  padding:0; }
+
+input { font:12px arial; }
+
+a {
+  color:#0000FF;
+  text-decoration:none; }
+
+a:hover { text-decoration:underline; }
+
+#wrapper, #loginform {
+  margin:0 auto;
+  padding-bottom:25px;
+  width:50vw;
+}
+
+#loginform { padding-top:18px; }
+
+#loginform p { margin: 5px; }
+
+#usermsg {
+  width: 80%;
+  border:1px solid #ACD8F0; }
+
+input#submitmsg {
+  width: 15%;
+  padding: 5px;
+  margin: 5px;
+}
+
+.userMsgClass{
+  background-color: aliceblue;
+  text-align: right;
+}
+.botProductBlock{
+  width: 100%;
+  clear: both;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.botImg{
+  margin: 0px 25px 15px 20px;
+  float: left;
+  width: 100px;
+}
+#face{
+  vertical-align: middle;
+  width: 120px;
+  float: left;
+  margin-left: 80px;
+  margin-top: 30px;
+  -webkit-animation: mover 2s infinite  alternate;
+  animation: mover 2s infinite  alternate;
+}
+@-webkit-keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-20px); }
+}
+@keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-20px); }
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0px;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  height: 20vh;
+  text-align: center;
+}
+
+nav.navbar.navbar-inverse{
+  margin-bottom: 10vh;
+}

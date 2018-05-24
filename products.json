@@ -1,0 +1,165 @@
+{
+    "ProductID":{
+        "1":{
+            "ProductName": "iPhone 7 128GB",
+            "Brand": "Apple",
+            "Category": "Phones & Tablets",
+            "SubscriptionPlanPrice": "44.99"
+        },
+        "2":{
+            "ProductName": "iPhone 7 32GB",
+            "Brand": "Apple",
+            "Category": "Phones & Tablets",
+            "SubscriptionPlanPrice": "39.99"
+        },
+        "3":{
+            "ProductName": "iPhone 7 Plus 128GB",
+            "Brand": "Apple",
+            "Category": "Phones & Tablets",
+            "SubscriptionPlanPrice": "49.99"
+        },
+        "4":{
+            "ProductName": "iPhone 7 128GB",
+            "Brand": "Samsung",
+            "Category": "Phones & Tablets",
+            "SubscriptionPlanPrice": "49.99"
+        },
+        "5":{
+            "ProductName": "Galaxy S8+ 64GB",
+            "Brand": "Samsung",
+            "Category": "Phones & Tablets",
+            "SubscriptionPlanPrice": "49.99"
+        },
+
+        "6":{
+            "ProductName": "Drone BEBOP",
+            "Brand": "Parrot",
+            "Category": "Drones",
+            "SubscriptionPlanPrice": "49.99"
+        },
+
+        "7":{
+            "ProductName": "Drone BEBOP 2",
+            "Brand": "Parrot",
+            "Category": "Drones",
+            "SubscriptionPlanPrice": "59.99"
+        },
+        "8":{
+            "ProductName": "Vive",
+            "Brand": "HTC",
+            "Category": "Gaming & VR",
+            "SubscriptionPlanPrice": "59.99"
+        },
+
+        "9":{
+            "ProductName": "Virtual Reality Glasses Rift VR",
+            "Brand": "Oculus",
+            "Category": "Gaming & VR",
+            "SubscriptionPlanPrice": "59.99"
+        },
+
+        "10":{
+            "ProductName": "MacBook 12\" M-5Y31, 8GB RAM, 516GB",
+            "Brand": "Apple",
+            "Category": "Computing",
+            "SubscriptionPlanPrice": "59.99"
+        },
+
+        "11":{
+            "ProductName": "MacBook Air 11\" i7 2.2, 8GB RAM, 512GB",
+            "Brand": "Apple",
+            "Category": "Computing",
+            "SubscriptionPlanPrice": "64.99"
+        },
+        "12":{
+            "ProductName": "MacBook Air 13\" i5-5250U, 4GB RAM, 128GB",
+            "Brand": "Apple",
+            "Category": "Computing",
+            "SubscriptionPlanPrice": "69.99"
+        },
+        "13":{
+            "ProductName": "MacBook Pro 13\" i5-3210M, 4GB RAM, 500GB",
+            "Brand": "Apple",
+            "Category": "Computing",
+            "SubscriptionPlanPrice": "74.99"
+        },
+
+        "14":{
+            "ProductName": "Convertible Laptop Surface Book 512GB SSD Intel Core i7 16GB RAM dGPU",
+            "Brand": "Microsoft",
+            "Category": "Computing",
+            "SubscriptionPlanPrice": "59.99"
+        },
+        "15":{
+            "ProductName": "Convertible Laptop YOGA 300-11IBR 80M1004KGE",
+            "Brand": "Lenovo",
+            "Category": "Computing",
+            "SubscriptionPlanPrice": "59.99"
+        },
+        "16":{
+            "ProductName": "Watch 38mm",
+            "Brand": "Apple",
+            "Category": "Wearables",
+            "SubscriptionPlanPrice": "39.99"
+        },
+
+        "17":{
+            "ProductName": "Watch 42mm",
+            "Brand": "Apple",
+            "Category": "Wearables",
+            "SubscriptionPlanPrice": "44.99"
+        },
+
+        "18":{
+            "ProductName": "Watch Ambit 3",
+            "Brand": "Suunto",
+            "Category": "Wearables",
+            "SubscriptionPlanPrice": "39.99"
+        },
+        "19":{
+            "ProductName": "Watch V800",
+            "Brand": "Polar",
+            "Category": "Wearables",
+            "SubscriptionPlanPrice": "39.99"
+        },
+        "20":{
+            "ProductName": "Watch WI503Q-1LDBR0001",
+            "Brand": "Asus",
+            "Category": "Wearables",
+            "SubscriptionPlanPrice": "44.99"
+        },
+        "21":{
+            "ProductName": "Alexa Dot",
+            "Brand": "Amazon",
+            "Category": "Smart Home",
+            "SubscriptionPlanPrice": "44.99"
+        },
+        "22":{
+            "ProductName": "Alexa Echo",
+            "Brand": "Amazon",
+            "Category": "Smart Home",
+            "SubscriptionPlanPrice": "49.99"
+        },
+        "23":{
+            "ProductName": "Qbo Milk Master",
+            "Brand": "Tchibo",
+            "Category": "Smart Home",
+            "SubscriptionPlanPrice": "29.99"
+        },
+        "24":{
+            "ProductName": "Robotic Vacuum Cleaner POWERbot VR20J9020UR/EG",
+            "Brand": "Samsung",
+            "Category": "Smart Home",
+            "SubscriptionPlanPrice": "39.99"
+        },
+
+        "25":{
+            "ProductName": "Robotic Vacuum Cleaner POWERbot VR20J9259U/EG",
+            "Brand": "Samsung",
+            "Category": "Smart Home",
+            "SubscriptionPlanPrice": "39.99"
+        }
+
+    }
+}
+
